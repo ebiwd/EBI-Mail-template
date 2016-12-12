@@ -1,6 +1,11 @@
 # EBI-Mail-template
 E-mail templates and guidance for Mac Mail stationary and Thunderbird message templates
 
+## Tips
+- Analytics: 
+  - If you're using Google Analytics, tt's a good idea to track links with the custom URL builder: https://support.google.com/analytics/answer/1033867?hl=en
+  - To track e-mail opens, use images with specific files names (a la: `2016-winter-campaign.gif`) and use server-side tracking.
+
 ## Mac Mail
 Mac Mail uses "[stationary](http://www.instructables.com/id/Easy-Customizing-of-Apple-Mail-Stationary/)".
 
