@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Background Images</key>
+	<array>
+		<string>blank.jpg</string>
+	</array>
+	<key>Display Name</key>
+	<string>EMBL-EBI-Winter</string>
+	<key>Folder Name</key>
+	<string>ebi-winter.mailstationery</string>
+	<key>HTML File</key>
+	<string>content.html</string>
+	<key>Images</key>
+	<array>
+		<string>blank.jpg</string>
+	</array>
+	<key>Stationery ID</key>
+	<string>F4069812-3A66-48E2-9CB1-A02623B21AF7</string>
+	<key>Thumbnail Image</key>
+	<string>thumbnail.png</string>
+</dict>
+</plist>
