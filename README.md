@@ -43,7 +43,13 @@ Save the `template.eml` file and drag it to the desired mailbox's "Templates" fo
   - In the associate mailbox's "Templates" folder
 - How do I delete a template?
   - Just delete the "message" from the "Templates" folder
-  
+
+## Outlook
+To come, but here's basic guidance on making templates in Outlook: https://support.office.com/en-us/article/Create-an-email-message-template-43EC7142-4DD0-4351-8727-BD0977B6B2D1
+
+Note Outlook on Mac [does not support e-mail templates](https://support.office.com/en-gb/article/Can-I-create-email-templates-in-Outlook-2016-for-Mac-6339b60e-2e5a-4aed-a9e6-2e7b5d7eb5a0).
+
+
 
 
 
